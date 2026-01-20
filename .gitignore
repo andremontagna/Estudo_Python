@@ -1,3 +1,9 @@
+text
+# Seu arquivo de token específico
+restrito.env
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
