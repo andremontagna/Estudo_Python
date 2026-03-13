@@ -188,3 +188,12 @@ cython_debug/
 /Projeto Ciencia de Dados/Recomendações
 /Projeto Ciencia de Dados/Mentoria
 /Projeto Ciencia de Dados/Dataset
+
+
+# Ignorar a pasta de dados inteira
+dataset/
+Mentoria/
+Recomendações/
+
+# Ignorar arquivos
+verificar_colunas.csv
