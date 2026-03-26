@@ -196,4 +196,4 @@ Mentoria/
 Recomendações/
 
 # Ignorar arquivos
-verificar_colunas.csv
+base_tratada.parquet
