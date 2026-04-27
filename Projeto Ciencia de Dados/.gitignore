@@ -187,8 +187,9 @@ cython_debug/
 .cursorindexingignore
 /Projeto Ciencia de Dados/Recomendações
 /Projeto Ciencia de Dados/Mentoria
-/Projeto Ciencia de Dados/Dataset
-
+/Projeto Ciencia de Dados/dataset
+/Projeto Ciencia de Dados/gabarito
+/Projeto Ciencia de Dados/modelo.joblib
 
 # Ignorar a pasta de dados inteira
 dataset/
