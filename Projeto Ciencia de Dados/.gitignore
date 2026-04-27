@@ -189,12 +189,18 @@ cython_debug/
 /Projeto Ciencia de Dados/Mentoria
 /Projeto Ciencia de Dados/dataset
 /Projeto Ciencia de Dados/gabarito
+/Estudo_Python/Projeto Ciencia de Dados/gabarito
+
 /Projeto Ciencia de Dados/modelo.joblib
+/Estudo_Python/Projeto Ciencia de Dados/modelo.joblib
+
+modelo.joblib
 
 # Ignorar a pasta de dados inteira
 dataset/
 Mentoria/
 Recomendações/
+gabarito/
 
 # Ignorar arquivos
 base_tratada.parquet
